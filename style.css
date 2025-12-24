@@ -148,6 +148,7 @@ body{
         margin:3rem 1.5rem 3rem 0;
         transition: 0.3s ease;
         color: white;
+        
     }
     
     .social-icons a:hover{
@@ -277,6 +278,7 @@ body{
                         padding : 1rem;
                         border-radius: 0.5rem;
                         border-bottom :0.5rem solid hsla(150, 3%, 49%, 0.603);
+                        padding: 0px;
                     }
             
                 }
