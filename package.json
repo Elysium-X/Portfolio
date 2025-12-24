@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tsparticles/shape-heart": "^3.9.1"
+  }
+}
